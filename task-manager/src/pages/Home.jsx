@@ -9,7 +9,7 @@ export default function Home() {
       <Card className="max-w-xl text-center">
         <h1 className="text-3xl font-bold mb-4">Welcome to Task.M</h1>
         <p className="mb-6 text-gray-600 dark:text-gray-300">
-          A modern, responsive React app demonstrating component architecture, state management, hooks, and API integration with Tailwind CSS.
+          Thank you for choosing Task.M! A modern, responsive Task Manager application to keep you devs up to date on what you are working on.
         </p>
         <Link to="/tasks">
           <Button variant="primary">Go to Task Manager</Button>
